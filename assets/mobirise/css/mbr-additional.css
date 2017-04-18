@@ -766,6 +766,21 @@ h6,
 #header3-31 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-41 .mbr-section-title,
+#header3-41 .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box8-40 .mbr-section-title,
+#msg-box8-40 p {
+  color: #fff;
+}
+#msg-box8-40 .mbr-section-title {
+  color: #c1c1c1;
+}
+#header3-42 .mbr-section-title,
+#header3-42 .mbr-section-subtitle {
+  text-align: center;
+}
 #social-buttons4-32 .mbr-section-title,
 #social-buttons4-32 .btn-social {
   color: #fff;
