@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Nicholas Valladares Porfolio",
-    "currentPage": "PersonalGallery.html",
+    "currentPage": "Introduction.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2466,9 +2466,10 @@
               "name": "buffer",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title1": "Get straight A's",
@@ -2482,9 +2483,10 @@
               "name": "change-style",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title2": "Learn illustrator",
@@ -2498,9 +2500,10 @@
               "name": "grooveshark",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title3": "Write a Scary Story",
@@ -2514,9 +2517,10 @@
               "name": "smile-face",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": false
             }
           },
           "title4": "Be a good boy",
